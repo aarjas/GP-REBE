@@ -1,2 +1,2 @@
 # GP-REBE
-This repository contains codes for dynamic variance component estimation for genetic models using Gaussian processes.
+This repository contains codes for dynamic variance component estimation for genetic models using Gaussian processes as described in Arjas et al. Posterior estimation of longitudinal variance components. The file functions.py contains the functions needed to run the analyses. The file run.py contains commented code to run similar analyses as in the article, from data simulation to actual statistical analysis.
