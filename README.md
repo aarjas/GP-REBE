@@ -1,2 +1,2 @@
 # GP-REBE
-Estimation of longitudinal variance components
+This repository contains codes for dynamic variance component estimation for genetic models using Gaussian processes.
